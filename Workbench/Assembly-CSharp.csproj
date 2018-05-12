@@ -65,7 +65,7 @@
     <Compile Include="Assets\SCRIPTE\Fliegenundgehen.cs" />
     <Compile Include="Assets\SCRIPTE\Gehen.cs" />
     <Compile Include="Assets\SCRIPTE\Hover.cs" />
-    <Compile Include="Assets\SCRIPTE\randomobject.cs" />
+    <Compile Include="Assets\SCRIPTE\Randomobject.cs" />
     <Compile Include="Assets\SCRIPTE\Rotieren.cs" />
     <Compile Include="Assets\SCRIPTE\Touch.cs" />
     <Compile Include="Assets\SCRIPTE\Touchevent.cs" />
