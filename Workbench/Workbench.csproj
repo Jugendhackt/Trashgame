@@ -244,6 +244,7 @@
     <Compile Include="Assets\SCRIPTE\randomobject.cs" />
     <Compile Include="Assets\SCRIPTE\Rotieren.cs" />
     <Compile Include="Assets\SCRIPTE\Touch.cs" />
+    <Compile Include="Assets\SCRIPTE\Touchevent.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
