@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/_SZENEN/Trash game.unity
-  isLoaded: 1
-  isActive: 1

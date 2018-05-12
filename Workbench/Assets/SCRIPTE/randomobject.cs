@@ -13,7 +13,7 @@ public List <GameObject> mulle;
 			
 		}
 		    
-			Debug.Log(Random.Range(-10, 10));
+			mulle[Random.Range(0,mulle.Count)].SetActive(true);
 		
 		
 	}
