@@ -3,9 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Touchevent : MonoBehaviour {
-
-
-	void Start () {
+    int Score;
 		
 	}
 	
@@ -18,6 +16,9 @@ public class Touchevent : MonoBehaviour {
            Debug.Log(hit.transform);
          }
        }
+
+
+
      }
 	 
 	 
