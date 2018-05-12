@@ -6,6 +6,13 @@ public class Randomobject : MonoBehaviour {
 public List <GameObject> mulle;
 public int mullsorte = 0;
 	
+	public void Neuermull(){
+		for(int i = 0; i < mulle.Count;i++){
+		mulle[i].SetActive(false);	
+		}
+		    
+	mulle[Random.Range(0,mulle.Count)].SetActive(true);
+		}
 	
 	void Start () {
 		Neuermull();
@@ -35,11 +42,5 @@ public int mullsorte = 0;
 		}
 		//Debug.Log(mullsorte);
 	}
-	public void Neuermull(){
-		for(int i = 0; i < mulle.Count;i++){
-		mulle[i].SetActive(false);	
-		}
-		    
-	mulle[Random.Range(0,mulle.Count)].SetActive(true);
-		}
+	
 }

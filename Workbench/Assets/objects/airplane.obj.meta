@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: f647bbb808f3b0542a739347d3bf14de
+guid: a17a3a611c06c4d4591b8191eda0855f
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
-    100000: group_0_15277357
+    100000: group_0_-1
     100002: //RootNode
-    400000: group_0_15277357
+    400000: group_0_-1
     400002: //RootNode
-    2100000: group_0_15277357Mat
-    2300000: group_0_15277357
-    3300000: group_0_15277357
-    4300000: group_0_15277357
+    2100000: group_0_-1Mat
+    2300000: group_0_-1
+    3300000: group_0_-1
+    4300000: group_0_-1
     2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
